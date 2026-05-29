@@ -31,7 +31,12 @@ In a turn, you can do 3 things.
    and then your opponent will be forced to use hearts instead!
    It will deal damage equal to a king. (13)
 
-2) You can play a support card.
+   If you use the Black Joker as your attack, you can look through the Banish pile and pick a spade to keep.
+   Then, get every spade in the banish pile and put them (randomly) into the drawpile.
+
+   Using this action skips your turn.
+
+3) You can play a support card.
 
    Support is played in 4 forms.
    Low-tier support,
@@ -43,10 +48,13 @@ In a turn, you can do 3 things.
    Once you play support, the next time it its your turn, it will trigger.
 
    A low-tier support is any club below 7.(Not including Aces.)
-   When triggered, it will let you draw an extra card from the draw pile. It is then discarded.
+   When triggered, it will let you draw 2 cards from the draw pile.
+   You then have to pick one card to keep, and the other gets put at the bottom of the drawpile
+   The support card is then discarded.
    
    A high-tier support is any club above 7, but not including face cards.
    When triggered, it will let you draw a card from the top of the Discard pile. The card itself is then discarded.
+   If there is no discard, the support card remains there.
    
    A face-card support is, well, a face card, and when it activates, you have to either play it as a lower support,
    or pick a player to steal from. When stealing with a face card, the person being stolen from has to pick a card to give you.
@@ -54,4 +62,9 @@ In a turn, you can do 3 things.
 
    Using block as support will allow you to pair that with another block card, but will be
    discarded upon activation.
+
+5) Skip turn
+
+
+   You can skip your turn, but you can still play support before.
    
