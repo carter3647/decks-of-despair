@@ -8,7 +8,7 @@ and Clubs are support cards.
 The game moves counter-clockwise.
 Pick a player to go first, and then let them play their turn
 When it is your turn, pick up 2 cards from the draw pile.
-Make sure that your support is discarded and 
+Make sure that your support is discarded and at the end of your turn, you're under 7 cards.
 When the drawpile is empty, use the discard pile as the new drawpile.(Remember to reverse the order!)
 In a turn, you can do 3 things.
 1) You can play an attack.
