@@ -51,6 +51,6 @@ In a turn, you can do 3 things.
    or pick a player to steal from. When stealing with a face card, the person being stolen from has to pick a card to give you.
    Just like Ace of Clubs, you cannot steal Aces or Jokers.
 
-   Using block as support will allow you to pair that with hearts, but will be
+   Using block as support will allow you to pair that with another block card, but will be
    discarded upon activation.
    
