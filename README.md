@@ -8,7 +8,8 @@ and Clubs are support cards.
 The game moves counter-clockwise.
 Pick a player to go first, and then let them play their turn
 When it is your turn, pick up 2 cards from the draw pile.
-When the drawpile is empty, use the discard pile as the new drawpile.(Remember to shuffle!)
+Make sure that your support is discarded and 
+When the drawpile is empty, use the discard pile as the new drawpile.(Remember to reverse the order!)
 In a turn, you can do 3 things.
 1) You can play an attack.
    
@@ -28,7 +29,7 @@ In a turn, you can do 3 things.
 
    If you have an Ace of Spades, you can play that as an attack,
    and then your opponent will be forced to use hearts instead!
-
+   It will deal damage equal to a king. (13)
 
 2) You can play a support card.
 
