@@ -1,0 +1,15 @@
+# Python bytecode files (keeps folder clean)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller compilation outputs (don't upload builds)
+build/
+dist/
+*.spec
+
+# Local workspace or private settings
+.vscode/
+token.txt
+workspace_snapshot.txt
